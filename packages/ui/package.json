@@ -32,5 +32,8 @@
   },
   "jest": {
     "preset": "scripts/jest/node"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
