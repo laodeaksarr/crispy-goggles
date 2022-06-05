@@ -10,8 +10,8 @@
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf .next"
   },
   "dependencies": {
-    "contentlayer": "^0.2.5",
     "@codesandbox/sandpack-react": "^1.1.1",
+    "contentlayer": "^0.2.5",
     "focus-trap-react": "^8.11.2",
     "logger": "*",
     "lunr": "^2.3.9",
