@@ -32,6 +32,8 @@ export {
 } from './components/Typography';
 export { default as VisuallyHidden } from './components/VisuallyHidden';
 */
+export { NewTabLink } from "./NewTabLink";
+export { CounterButton } from "./CounterButton";
 
 /** LIB **/
 export {
